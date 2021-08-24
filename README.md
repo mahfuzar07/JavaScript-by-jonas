@@ -1,2 +1,2 @@
 # Learn_JavaScript
-JavaScript by Jonas
+Learn JavaScript for Beginner 
